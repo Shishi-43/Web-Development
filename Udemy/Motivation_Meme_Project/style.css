@@ -1,0 +1,35 @@
+ body{
+    background-color: black;
+    color: white;
+    font-family: 'Arial', serif;
+    text-align: center;
+}
+
+#container{
+    width: 50%;
+    margin-left: 25%;
+} 
+.image{
+    border: 5px solid white;
+    margin-top: 20px;
+    height: 400px;
+    width: 600px;
+}
+
+.image img{
+    width: 100%;
+    height: 100%;
+}
+
+.text{
+    margin-right: 5%;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p{
+    padding: 20px;
+}
